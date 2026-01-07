@@ -1,0 +1,9 @@
+{
+    "/login": "auth_service",
+    "/checkout": "payment_service",
+    "/api/users": "user_service",
+    "/api/orders": "order_service",
+    "/health": "health_service",
+    "/api/products": "product_service",
+    "/logout": "auth_service"
+}
